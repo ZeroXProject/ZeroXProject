@@ -48,7 +48,7 @@
     <p>Let's connect and collaborate on building innovative solutions together!</p>
     <div class="highlight">
         <p>Ready to collaborate?</p>
-        <a href="#" class="btn">Get in touch</a>
+        <a href="StealthAssassin96@proton.me" class="btn">Get in touch</a>
     </div>
 </body>
 </html>
